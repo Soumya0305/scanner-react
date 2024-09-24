@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scanner-react/static/css/main.a9725daf.css",
+    "main.js": "/scanner-react/static/js/main.03016147.js",
+    "static/js/453.fbf67370.chunk.js": "/scanner-react/static/js/453.fbf67370.chunk.js",
+    "static/media/scanner.svg": "/scanner-react/static/media/scanner.658f29c0fd230ed1192fcebad1732b20.svg",
+    "index.html": "/scanner-react/index.html",
+    "main.a9725daf.css.map": "/scanner-react/static/css/main.a9725daf.css.map",
+    "main.03016147.js.map": "/scanner-react/static/js/main.03016147.js.map",
+    "453.fbf67370.chunk.js.map": "/scanner-react/static/js/453.fbf67370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9725daf.css",
+    "static/js/main.03016147.js"
+  ]
+}
